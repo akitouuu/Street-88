@@ -246,8 +246,8 @@ body {
     background: rgba(105, 207, 23, 0.9);
     font-size: 62.54px;
     color: #FFFFFF;
-    width: 370px;
-    height: 360px;
+    width: 340px;
+    height: 330px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -258,6 +258,7 @@ body {
 
 .main__content-item:hover .main__content-icon{
     top: 10px;
+    left: 15px;
 }
 
 .main__content-items {
@@ -347,6 +348,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top: 20px;
 }
 
 .main__about-description {
